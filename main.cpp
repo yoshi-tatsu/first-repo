@@ -1,2 +1,4 @@
 int main(){
-printf("Hello");};
+printf("Hello, Everyone!!");
+printf("Hello, World!!");
+};
