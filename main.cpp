@@ -1,6 +1,5 @@
 #include "Warrior.h"
-
-int MainFunction(){
+int MAINFUNCTION(){
 printf("Hello, Everyone!!");
 printf("Hello, World!!");
 };
